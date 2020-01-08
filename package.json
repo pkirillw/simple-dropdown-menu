@@ -1,0 +1,23 @@
+{
+  "name": "simple-dropdown-menu",
+  "version": "1.0.0",
+  "description": "This is simple dropdown menu",
+  "main": "Dropdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkirillw/simple-dropdown-menu.git"
+  },
+  "keywords": [
+    "dropdown",
+    "simple"
+  ],
+  "author": "pkirillw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkirillw/simple-dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/pkirillw/simple-dropdown-menu#readme"
+}
