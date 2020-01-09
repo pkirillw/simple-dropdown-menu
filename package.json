@@ -1,6 +1,6 @@
 {
   "name": "simple-dropdown-menu",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is simple dropdown menu",
   "main": "Dropdown.js",
   "scripts": {
