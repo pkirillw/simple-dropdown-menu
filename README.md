@@ -14,6 +14,11 @@ It's simple dropdown menu
 
 `new Dropdown();`
 
+Now you can pass the names of eventlisteners that will show or hide the menu.
+
+
+`new Dropdown({listenerEnter: 'click', listenerLeave: 'mouseout'});`
+
 **HTML**
 
 1. Add attribute to button for dropdown - data-dropdown-menu="{THIS_YOURS_ID_BLOCK_FOR_SHOW}"
