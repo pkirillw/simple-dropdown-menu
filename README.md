@@ -8,12 +8,14 @@ It's simple dropdown menu
 
 ## Usage
 
-###JS
+**JS**
+
 `import Dropdown from "simple-dropdown-menu";`
 
 `new Dropdown();`
 
-###HTML
+**HTML**
+
 1. Add attribute to button for dropdown - data-dropdown-menu="{THIS_YOURS_ID_BLOCK_FOR_SHOW}"
 2. And add\change ID block for showing
 
