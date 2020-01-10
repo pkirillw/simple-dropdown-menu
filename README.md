@@ -29,6 +29,10 @@ Now you can pass the names of eventlisteners that will show or hide the menu.
 
 `<a data-dropdown-menu="category-dropdown">...</a>`
 
+`<a data-dropdown-menu="category-dropdown" data-dropdown-menu-listener-enter="{MOUSE_EVENT}">...</a>`
+
+`<a data-dropdown-menu="category-dropdown" data-dropdown-menu-listener-leave="{MOUSE_EVENT}">...</a>`
+
 `<div id="category-dropdown">...</div>`
 
 ## Contributing
